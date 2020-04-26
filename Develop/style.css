@@ -1,7 +1,8 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: Orbitron;
   font-size: 16px;
   line-height: 1;
+  background-color: rgb(247, 53, 85);
 }
 
 textarea{
@@ -63,7 +64,7 @@ textarea{
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06AED5;
+  background-color: rgb(77, 177, 240);
   font-size: 18px;
   color: white;
 }
@@ -72,4 +73,5 @@ textarea{
   font-size: 25px;
   transition: all .3s ease-in-out;
   cursor: pointer;
+  /*this line above is for the controlling the appearance of save button with cursor over it
 }
